@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="140" viewBox="0 0 520 140" role="img" aria-labelledby="title desc">
+  <title id="title">岩崎機工株式会社 ロゴ案 文字のみ 01</title>
+  <desc id="desc">太めのゴシック体で社名を強く見せる文字のみロゴ案。</desc>
+  <rect width="520" height="140" fill="#ffffff"/>
+  <g transform="translate(34 38)">
+    <text x="0" y="30" font-family="'Noto Sans JP','Yu Gothic',Meiryo,sans-serif" font-size="34" font-weight="800" fill="#172735">岩崎機工株式会社</text>
+    <text x="2" y="64" font-family="Arial,'Noto Sans JP',sans-serif" font-size="14" font-weight="700" fill="#64707a">IWASAKI KIKO CO., LTD.</text>
+    <rect x="0" y="78" width="250" height="4" rx="2" fill="#1f5b4b"/>
+  </g>
+</svg>
