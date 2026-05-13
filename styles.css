@@ -410,6 +410,10 @@ p {
   background: var(--color-soft);
 }
 
+.business-section .section-heading {
+  max-width: none;
+}
+
 .section-heading {
   max-width: 720px;
   margin-bottom: 36px;
@@ -618,6 +622,10 @@ p {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
+  .business-section .section-heading p:not(.section-kicker) {
+    white-space: normal;
+  }
+
   .contact-actions {
     justify-content: flex-start;
   }
@@ -771,5 +779,11 @@ p {
 
   .footer-inner > div + div {
     margin-top: 18px;
+  }
+}
+
+@media (min-width: 1100px) {
+  .business-section .section-heading p:not(.section-kicker) {
+    white-space: nowrap;
   }
 }
